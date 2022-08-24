@@ -1,1 +1,2 @@
 node_modules
+chmod 400 api-on-aws-ec2.pem
